@@ -1,0 +1,25 @@
+{
+  "name": "bluesky-api-scrapper",
+  "version": "1.0.0",
+  "description": "Scrapper to get posts from the Bluesky API",
+  "main": "main.ts",
+  "engines": {
+    "node": ">=22.14.0"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/archiver": "^6.0.3",
+    "@types/node": "^22.14.0",
+    "@types/node-fetch": "^2.6.12",
+    "ts-node": "^10.9.2"
+  }
+}

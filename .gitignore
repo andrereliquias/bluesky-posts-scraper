@@ -1,0 +1,5 @@
+node_modules
+*.log
+**/*.csv
+**/*.zip
+.DS_Store
