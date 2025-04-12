@@ -1,4 +1,4 @@
-# Bluesky API Scraper
+# Bluesky Posts Scraper
 
 This project consist of a script that captures posts from the Bluesky social network over a specified time range using a search string. The script utilizes the `app.bsky.feed.searchPosts` endpoint. You can find the complete documentation [here](https://docs.bsky.app/docs/api/app-bsky-feed-search-posts).
 

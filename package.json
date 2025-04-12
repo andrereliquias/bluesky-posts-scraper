@@ -1,5 +1,5 @@
 {
-  "name": "bluesky-api-scraper",
+  "name": "bluesky-posts-scraper",
   "version": "1.0.0",
   "description": "Scraper to get posts from the Bluesky API",
   "main": "main.ts",
