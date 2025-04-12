@@ -1,7 +1,7 @@
 {
-  "name": "bluesky-api-scrapper",
+  "name": "bluesky-api-scraper",
   "version": "1.0.0",
-  "description": "Scrapper to get posts from the Bluesky API",
+  "description": "Scraper to get posts from the Bluesky API",
   "main": "main.ts",
   "engines": {
     "node": ">=22.14.0"
