@@ -1,8 +1,8 @@
 {
-  "query": "\"Ricardo Nunes\" | \"Guilherme Boulos\" | \"Pablo Marçal\" | \"Tabata Amaral\" | \"José Luiz Datena\" | \"Datena\" | \"Boulos\" | \"Marçal\" | \"Marcal\" | \"Tabata\"",
+  "query": "\"Ricardo Nunes\" | \"Guilherme Boulos\" | \"Pablo Marçal\" | \"Tabata Amaral\" | \"José Luiz Datena\" | \"Datena\" | \"Boulos\" | \"Marçal\" | \"Marcal\" | \"Tabata\" | \"Tábata\"",
   "language": "pt",
-  "since": "2024-10-05T00:00:00-03:00",
-  "until": "2024-10-05T23:59:00-03:00",
+  "since": "2024-08-16T00:00:00-03:00",
+  "until": "2024-10-06T23:59:00-03:00",
   "minuteInterval": 10,
   "limit": 100,
   "postsPerFile": 10000,
